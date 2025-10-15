@@ -1,0 +1,2 @@
+# .github
+NumRuby org README
